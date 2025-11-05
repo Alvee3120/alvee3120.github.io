@@ -6,10 +6,10 @@ permalink: /education/
 
 ---
 
-**[Dartmouth College](https://home.dartmouth.edu/)**   
-*PhD in Computer Science*   
-Study Period: <b>September 2022 - Ongoing</b>   
-Advisor: [Prof. Sarah M. Preum](https://web.cs.dartmouth.edu/people/sarah-masud-preum) Lab: [Persist Lab](https://persist-lab.github.io/)
+**[IUBAT- International University of Business Agriculture and Technology](https://iubat.edu/)**   
+*Bachelor of Science in Computer Science and Engineering*   
+Study Period: <b>January 2022 - Ongoing</b>   
+Current CGPA: 3.86 (out of 4.00)
 
 **Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
 *Masters in Computer Science and Engineering*   
