@@ -8,26 +8,32 @@ excerpt: "About me"
 
 ## Md. Fazlah Karim Alvee
 
-I’m a passionate **Web Developer** and **Computer Science student** currently pursuing a **B.Sc. in Computer Science and Engineering** at the *International University of Business Agriculture and Technology (IUBAT)*.
-I enjoy building dynamic, responsive web applications and exploring AI-driven technologies.
+I’m a Computer Science student currently pursuing a B.Sc. in Computer Science and Engineering at the International University of Business Agriculture and Technology (IUBAT).
+I’m presently completing my internship at Simec System Limited as a Python Django Developer, where I’m gaining practical experience in backend development and real-world project implementation.
+I have a strong foundation in UI/UX design, enabling me to build intuitive, user-friendly, and visually appealing interfaces.
+My interests include developing dynamic, responsive web applications and exploring how AI-driven technologies can enhance functionality and user experience.
 
 ---
 
 ### 🎓 Education
 
 **International University of Business Agriculture and Technology (IUBAT)**
+
 *Bachelor of Science in Computer Science and Engineering*
-**CGPA:** 3.85 / 4.00
+
+**CGPA:** 3.86 / 4.00
+
 **Duration:** January 2022 – December 2025
+
 **Location:** Dhaka, Bangladesh
 
 ---
 
 ### 🛠️ Skills
 
-* **Programming Languages:** JavaScript, C, C++
+* **Programming Languages:**Python, JavaScript, C, C++
 * **Database:** MySQL
-* **Technologies & Frameworks:** HTML, CSS, React, WordPress, Git, GitHub
+* **Technologies & Frameworks:** Django, React, Html, Css, WordPress, Git, GitHub, Django Rest Framework
 * **Tools:** VS Code, CodeBlocks, Cisco Packet Tracer
 * **Design & Prototyping:** Figma, Adobe XD, Balsamiq
 
@@ -38,7 +44,7 @@ I enjoy building dynamic, responsive web applications and exploring AI-driven te
 * **Email:** [fazlahkarim2002@gmail.com](mailto:fazlahkarim2002@gmail.com)
 * **LinkedIn:** [linkedin.com/in/alvee3120](https://www.linkedin.com/in/alvee3120/)
 * **GitHub:** [github.com/Alvee3120](https://github.com/Alvee3120)
-* **Portfolio:** [alvee.sagafootwear.com](https://alvee.sagafootwear.com/)
+* **Portfolio:** [portfolio.fkalvee.com](https://alvee.sagafootwear.com/)
 * **Netlify Projects:** [Netlify Dashboard](https://app.netlify.com/teams/fazlah-alvee20/projects)
 
 
@@ -186,7 +192,7 @@ I am a PhD student in the department of <a href="https://web.cs.dartmouth.edu/">
  I am enthusiastic about Multilingual and Multimodal NLP research. I am interested in exploring how existing resources of resource-rich languages can be effectively utilized to develop multilingual tools focusing on improving efficiency for low/zero-resource languages.
  I am interested in applying NLP techniques to extract meaningful information from social media and health data. I am also enthusiastic about Multimodal NLP particularly in designing models to effectively share features accross vairous modalities to improve their reasoning capability and . I am excited about problems like how we can build models that can efficiently fuse and meaningfully share features between multiple modalities (i.e. linguistic, acoustic, visual) to enable seamless interaction between intelligent machines and humans.
 -->
--->
+
  <!---
  Previously, I worked as an Assistant Professor at Chittagong University of Engineering and Technology <a href="https://www.cuet.ac.bd/">(CUET)</a>. While working on academic and extracurricular projects, I develop my skill in C, C++, Python, Java, Php, and Latex. Working on several group projects help me to get communication as well as planning skills. 
 -->
