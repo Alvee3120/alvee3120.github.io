@@ -12,8 +12,8 @@ main:
   - title: "Achievements/Skills"
     url: /achievements/ 
         
-  - title: "Notes/Misc"
-    url: /notes 
+  - title: "Technical Skills"
+    url: /skills 
 
 # - title: "Skills/Achievements"
 #   url: /skills/ 
