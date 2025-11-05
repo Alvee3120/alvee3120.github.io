@@ -1,4 +1,4 @@
----
+
 title: "Education"
 excerpt: ""
 author_profile: true
@@ -6,22 +6,21 @@ permalink: /education/
 
 ---
 
-**[IUBAT- International University of Business Agriculture and Technology](https://iubat.edu/)**   
+**[IUBAT- International University of Business Agriculture and Technology]**   
 *Bachelor of Science in Computer Science and Engineering*   
 Study Period: <b>January 2022 - Ongoing</b>   
 Current CGPA: 3.86 (out of 4.00)
 
-**Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
-*Masters in Computer Science and Engineering*   
-Study Period: <b>August 2019 - January 2022</b>   
-Advisor: [Prof. Moshiul Hoque](https://scholar.google.com/citations?hl=en&user=srYxYhcAAAAJ&view_op=list_works&sortby=pubdate) Lab: CUET NLP 
+**Noakhali Government College**   
+*Higher Secondary Certificate*   
+Passing Year: <b>2020</b>   
+GPA: 5.00 (out of 5.00)
 
 
-**Chittagong University of Engineering and Technology [(CUET)](https://www.cuet.ac.bd/dept/cse)**   
-*Bachelors in Computer Science and Engineering*   
-Study Period: <b>March 2014 - November 2018</b>   
-Advisor: [Prof. Moshiul Hoque](https://scholar.google.com/citations?hl=en&user=srYxYhcAAAAJ&view_op=list_works&sortby=pubdate) 
-
+**Brother Andre High School**   
+*Secondary School Certificate*   
+Passing Year: 2018 
+GPA: 5.00 (out of 5.00)
 <!---
 CGPA: <b>3.90/4.00</b>  
 Position: <b>1<sup>st</sup>/103</b>
@@ -31,20 +30,12 @@ Position: <b>1<sup>st</sup>/48</b>
 
 
 ## <font color="#00cc66"> Work Experience </font>
- **Research Intern <font color="#541A75">[Mar 2025 - June 2025]</font>**   
- *Amazon, NYC*
+ **Software Development Intern <font color="#541A75">[Oct 2025 - Ongoing]</font>**   
+ *Simec System Limited, Uttara-12,Dhaka*
 
- **Graduate Research/Teaching Assistant <font color="#541A75">[Sep 2022 - Ongoing]</font>**   
- *Departmet of Computer Science, Dartmouth College*
+ **Junior Web Designer (Part-Time) <font color="#541A75">[Jan 2023 - May 2025]</font>**   
+ *Tech4Realty*
 
- **Assistant Professor (on leave) <font color="#541A75">[July 2022 - Aug 2022]</font>**   
- *Departmet of Computer Science and Engineering, CUET*
- 
- **Lecturer <font color="#541A75">[July 2019 - June 2022]</font>**   
- *Department of Computer Science and Engineering, CUET*
-
- **Research Assistant <font color="#541A75">[Dec 2018 - June 2019]</font>**    
- *CUET NLP Lab*
 
 ## <font color="#00cc66"> Certifications </font>
 
