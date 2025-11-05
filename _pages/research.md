@@ -5,12 +5,7 @@ permalink: /research/
 
 ---
 
-My broad research interests are in Natural Language Processing, Human-AI Interaction and Deep Learning. Some of the areas I am working are,
- * Large Language Models Inference/Training and Representation Learning [[<font color="#4796C9"> EMNLP-24 </font>](https://omar-sharif03.github.io/DiscourseEE/), [<font color="#4796C9"> EMNLP-23 </font>](https://aclanthology.org/2023.findings-emnlp.273/), [<font color="#4796C9">GEM@EMNLP-23 </font>](https://aclanthology.org/2023.gem-1.23/)]
- * Multi-granularity Information Extraction (event and argument extraction, argument augmentation) [[<font color="#4796C9"> EMNLP-24 </font>](https://omar-sharif03.github.io/DiscourseEE/), [<font color="#4796C9">AAAI-24</font>](https://ojs.aaai.org/index.php/AAAI/article/view/30241), [<font color="#4796C9">ACL-25</font>](https://arxiv.org/abs/2403.03304)]
- * Multimodal NLP (analyze text, image, speech, and other meta signals to build intelligent systems and evaluate large VLMs) [[<font color="#4796C9"> ACL-24 </font>](https://aclanthology.org/2024.acl-long.454/), [<font color="#4796C9">EACL-24</font>](https://aclanthology.org/2024.eacl-srw.12/)]
- * NLP for Social Good (application focusing on Social Science and Healthcare) [[<font color="#4796C9">AAAI-24</font>](https://ojs.aaai.org/index.php/AAAI/article/view/30241), [<font color="#4796C9"> ICWSM-24 </font>](https://ojs.aaai.org/index.php/ICWSM/article/view/31391/33551), [<font color="#4796C9">JMIR</font>](https://www.jmir.org/2025/1/e68886/), [<font color="#4796C9">Neurocomputing</font>](https://www.sciencedirect.com/science/article/abs/pii/S0925231221018567)]
-
+My primary research interests lie in the areas of Natural Language Processing and Computer Vision, particularly object detection.
  
   
 <!--
@@ -25,7 +20,20 @@ My broad research interests are in Natural Language Processing, Human-AI Interac
 
 # <font color="#00cc66"> Publications </font> 
 
-<b>To get the full list of my papers please check: </b>[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate) / [[Semantic Scholar]](https://www.semanticscholar.org/author/Omar-Sharif/2073472600)
+
+**PavD-YOLOv9: An Enhanced Deep Learning Method for Accurate Pavement Distress Detection and Classification**  
+   *Published | IEEE*  
+   [View Publication](URL)
+
+**Comparative Analysis of Object Detection Algorithms for Pothole Detection under Environmental Constraints**  
+   *Accepted | Springer (Not online yet)*
+
+**YOLO-Based Road Damage Detection: Dataset Analysis and Real-World Implications**  
+   *Accepted | Springer (Not online yet)*
+
+**Optimizing Urban Traffic Management in Bangladesh Using AI, IoT, and Advanced Algorithms: A Modified YOLO Approach**  
+   *Accepted | Springer (Not online yet)*
+<!-- <b>To get the full list of my papers please check: </b>[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate) / [[Semantic Scholar]](https://www.semanticscholar.org/author/Omar-Sharif/2073472600)
 
 ## <font > Works in Progress </font> 
 
@@ -78,7 +86,7 @@ Kawsar Ahmed, Md Osama, <b><font color="#2d862d">Omar Sharif</font></b>, Eftekha
   Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque  
   [<font color="#4796C9"> [LREC-2022] </font>](https://lrec2022.lrec-conf.org/en/) / [<font color="#4796C9">[Paper] </font>](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.165.pdf)
 
--->
+
 
   <font color="#993333"> MUTE: A Multimodal Dataset for Detecting Hateful Memes</font>  
   Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque  
@@ -107,7 +115,7 @@ Kawsar Ahmed, Md Osama, <b><font color="#2d862d">Omar Sharif</font></b>, Eftekha
  Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Iqbal H. Sarker   
  [<font color="#4796C9"> [HIS-2020, Springer] </font>](http://www.mirlabs.net/his20/) / [<font color="#4796C9">[Paper] </font>](https://arxiv.org/abs/2011.09684)
 
--->
+
  
  <font color="#993333">Sentiment analysis of Bengali texts on online restaurant reviews using multinomial Naïve Bayes</font> 
  <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Eftekhar Hossain   
@@ -119,7 +127,7 @@ Kawsar Ahmed, Md Osama, <b><font color="#2d862d">Omar Sharif</font></b>, Eftekha
   M. A. Muhaimin Sakib, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque  
  [<font color="#4796C9"> [ICIoTCT 2020, Springer] </font>](http://iciotct2021.iaasse.org/index.html) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/chapter/10.1007/978-3-030-76736-5_15)
  
- -->  
+
 
  <font color="#993333">Automatic Detection of Suspicious Bangla Text Using Logistic Regression</font> 
  <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque    
@@ -153,7 +161,7 @@ Madhusudan Basak <b><font color="#2d862d">Omar Sharif</font></b>, et al.,
   <font color="#993333"> BEmoC: A Corpus for Identifying Emotion in Bengali Texts </font>   
    MD. Asif Iqbal, Avishek Das, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque, Iqbal H.Sarker   
    [<font color="#4796C9"> [SN Computer Science Journal] </font>](https://www.springer.com/journal/42979) / [<font color="#4796C9">[Paper] </font>](https://link.springer.com/article/10.1007/s42979-022-01028-w)
--->
+
 
 ## <font > Workshops </font>
  
@@ -231,7 +239,7 @@ Some collaborative works with CUET NLP members were accepted in several conferen
 Nasehatul Mustakim <b>et al.</b>,  
 [<font color="#4796C9"> [TamilNLP@ACL-22] </font>](https://dravidianlangtech.github.io/2022/) / [<font color="#4796C9">[Paper] </font>](https://aclanthology.org/2022.dravidianlangtech-1.31/)
 
-
+ -->
 
 
   
