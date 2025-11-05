@@ -5,6 +5,52 @@ excerpt: "About me"
 
 ---
 
+
+## Md. Fazlah Karim Alvee
+
+I’m a passionate **Web Developer** and **Computer Science student** currently pursuing a **B.Sc. in Computer Science and Engineering** at the *International University of Business Agriculture and Technology (IUBAT)*.
+I enjoy building dynamic, responsive web applications and exploring AI-driven technologies.
+
+---
+
+### 🎓 Education
+
+**International University of Business Agriculture and Technology (IUBAT)**
+*Bachelor of Science in Computer Science and Engineering*
+**CGPA:** 3.85 / 4.00
+**Duration:** January 2022 – December 2025
+**Location:** Dhaka, Bangladesh
+
+---
+
+### 🛠️ Skills
+
+* **Programming Languages:** JavaScript, C, C++
+* **Database:** MySQL
+* **Technologies & Frameworks:** HTML, CSS, React, WordPress, Git, GitHub
+* **Tools:** VS Code, CodeBlocks, Cisco Packet Tracer
+* **Design & Prototyping:** Figma, Adobe XD, Balsamiq
+
+---
+
+### 📫 Contact
+
+* **Email:** [fazlahkarim2002@gmail.com](mailto:fazlahkarim2002@gmail.com)
+* **LinkedIn:** [linkedin.com/in/alvee3120](https://www.linkedin.com/in/alvee3120/)
+* **GitHub:** [github.com/Alvee3120](https://github.com/Alvee3120)
+* **Portfolio:** [alvee.sagafootwear.com](https://alvee.sagafootwear.com/)
+* **Netlify Projects:** [Netlify Dashboard](https://app.netlify.com/teams/fazlah-alvee20/projects)
+
+
+
+
+
+
+
+
+
+
+
 <!---
 <p align="justify">
   <b><font color="red"><h2> (Under Construction)</h2></font></b>
@@ -14,7 +60,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
--->
+
 
 <p align="justify">
 I am an undergraduate student in the <a href="https://cse.iubat.edu">Computer Science and Engineering</a> department at <a href="https://iubat.edu/">IUBAT</a>. Currently, I am working part-time as a Junior Web Designer at <a href="https://tech4realty.com/">Tech4Realty</a>, where I apply my academic knowledge to real-world web development projects. This experience allows me to strengthen my technical skills while contributing meaningfully to professional work. Balancing both academics and industry exposure has helped me develop strong time management abilities and a mindset focused on continuous growth. I am eager to leverage my hands-on experience and technical expertise to contribute effectively to your team.
@@ -39,7 +85,7 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 <font size="2">🟢</font> 
 <font size="2">🔵</font> 
 <font size="2">🟣</font> 
--->
+
 
 ## <font color="#00cc66"> Updates </font>
 <div style="height: 400px; overflow: auto;">
@@ -91,7 +137,7 @@ I am also pursuing my M.Sc. from CUET . My research interest lies in the interse
 <!---
 <font size="2">🟤</font> <span style="color:rgb(201, 76, 76)">25 Mar,2021</span>  One paper got accepted at <a href="https://naacl2021-srw.github.io/">NAACL-SRW</a>.
 <font size="2">⚫</font> <span style="color:rgb(201, 76, 76)">25 Mar,2021</span>  One paper got accepted at <a href="https://naacl2021-srw.github.io/">NAACL-SRW</a>.
--->
+
 </pre>
 </div>
 
@@ -132,7 +178,7 @@ List of few books, courses and blog posts that I find really helpfull.
 
 <!---
 I am a PhD student in the department of <a href="https://web.cs.dartmouth.edu/">Computer Science</a> at <a href="https://home.dartmouth.edu/">Dartmouth</a>. My primary research interest lies in the area of Natural Language Processing; particularly, I am interested in applying NLP techniques to extract meaningful information from social media and health data. I am also enthusiastic about Multimodal NLP particularly in designing models to effectively share features accross vairous modalities to improve their reasoning capability and eventually enable seamless interaction between intelligent machines and humans. I spent Spring 2025 interning at <a href="https://aws.amazon.com/quicksight/q/">Amazon</a> with <a href="https://ngpatrick.com/">Patrick's</a> team to improve visual reasoning capabilities of MLLMs through Reinforcement learning.
--->
+
 
  <!-- it is crucial to process, relate, and combine information from several modalities. -->
 
@@ -140,7 +186,7 @@ I am a PhD student in the department of <a href="https://web.cs.dartmouth.edu/">
  I am enthusiastic about Multilingual and Multimodal NLP research. I am interested in exploring how existing resources of resource-rich languages can be effectively utilized to develop multilingual tools focusing on improving efficiency for low/zero-resource languages.
  I am interested in applying NLP techniques to extract meaningful information from social media and health data. I am also enthusiastic about Multimodal NLP particularly in designing models to effectively share features accross vairous modalities to improve their reasoning capability and . I am excited about problems like how we can build models that can efficiently fuse and meaningfully share features between multiple modalities (i.e. linguistic, acoustic, visual) to enable seamless interaction between intelligent machines and humans.
 -->
-
+-->
  <!---
  Previously, I worked as an Assistant Professor at Chittagong University of Engineering and Technology <a href="https://www.cuet.ac.bd/">(CUET)</a>. While working on academic and extracurricular projects, I develop my skill in C, C++, Python, Java, Php, and Latex. Working on several group projects help me to get communication as well as planning skills. 
 -->
