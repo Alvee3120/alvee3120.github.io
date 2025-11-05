@@ -33,8 +33,11 @@ My primary research interests lie in the areas of Natural Language Processing an
 
 **Optimizing Urban Traffic Management in Bangladesh Using AI, IoT, and Advanced Algorithms: A Modified YOLO Approach**  
    *Accepted | Springer (Not online yet)*
-<!-- <b>To get the full list of my papers please check: </b>[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate) / [[Semantic Scholar]](https://www.semanticscholar.org/author/Omar-Sharif/2073472600)
 
+**SOMA: Multimodal Sentiment Analysis of Bangla Memes Using Vision and Transformer-Based Models**  
+   *Thesis Work*
+
+<!--
 ## <font > Works in Progress </font> 
 
 
@@ -166,7 +169,7 @@ Madhusudan Basak <b><font color="#2d862d">Omar Sharif</font></b>, et al.,
 ## <font > Workshops </font>
  
   <font color="#993333"> Multilingual Code-Mixed Hope Speech Detection using Cross-lingual Representation Learner</font>  
- 🥇 *<font color="#f00">[Top model in multilingual hope speech detection challenge]</font>*       
+  *<font color="#f00">[Top model in multilingual hope speech detection challenge]</font>*       
   Eftekhar Hossain, <b><font color="#2d862d">Omar Sharif</font></b>, Mohammed Moshiul Hoque   
   [<font color="#4796C9"> [LTEDI@EACL-2021] </font>](https://sites.google.com/view/lt-edi-2021/home) / [<font color="#4796C9">[Paper] </font>](https://www.aclweb.org/anthology/2021.ltedi-1.25/) / [<font   color="#4796C9"> [Code] </font>](https://github.com/omar-sharif03/CUET_NLP-EACL_2021)  
 
