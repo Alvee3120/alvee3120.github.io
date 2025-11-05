@@ -23,7 +23,7 @@ My primary research interests lie in the areas of Natural Language Processing an
 
 **PavD-YOLOv9: An Enhanced Deep Learning Method for Accurate Pavement Distress Detection and Classification**  
    *Published | IEEE*  
-   [View Publication](URL)
+   [View Publication](https://www.researchgate.net/publication/392212582_PavD-YOLOv9_An_Enhanced_Deep_Learning_Method_for_Accurate_Pavement_Distress_Detection_and_Classification)
 
 **Comparative Analysis of Object Detection Algorithms for Pothole Detection under Environmental Constraints**  
    *Accepted | Springer (Not online yet)*
