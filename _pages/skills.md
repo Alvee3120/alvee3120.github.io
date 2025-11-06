@@ -5,10 +5,10 @@ author_profile: true
 permalink: /skills/
 
 ---
-
+## 🛠️ Skills
 <div style="text-align: justify; line-height: 1.6; margin-bottom: 1.5em;">
 
-  <h3 style="margin-bottom: 0.5em; color: #2c3e50;">🛠️ Skills</h3>
+ 
 
   <p style="margin: 0.3em 0;">
     <strong>Programming Languages:</strong> Python, JavaScript, C, C++
