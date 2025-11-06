@@ -19,17 +19,32 @@ I’m a Computer Science student currently pursuing a B.Sc. in Computer Science 
 
 ---
 
-### 🎓 Education
+## 🎓 Education
 
-**International University of Business Agriculture and Technology (IUBAT)**
+<div style="text-align: justify; line-height: 1.6; margin-bottom: 1.5em;">
 
-*Bachelor of Science in Computer Science and Engineering*
+  <h3 style="margin-bottom: 0; color: #2c3e50;">
+    <strong>International University of Business Agriculture and Technology (IUBAT)</strong>
+  </h3>
 
-**CGPA:** 3.86 / 4.00
+  <p style="margin: 0.3em 0; font-style: italic; color: #555;">
+    Bachelor of Science in Computer Science and Engineering
+  </p>
 
-**Duration:** January 2022 – December 2025
+  <p style="margin: 0.3em 0;">
+    <strong>CGPA:</strong> 3.86 / 4.00
+  </p>
 
-**Location:** Dhaka, Bangladesh
+  <p style="margin: 0.3em 0;">
+    <strong>Duration:</strong> January 2022 – December 2025
+  </p>
+
+  <p style="margin: 0.3em 0;">
+    <strong>Location:</strong> Dhaka, Bangladesh
+  </p>
+
+</div>
+
 
 ---
 
