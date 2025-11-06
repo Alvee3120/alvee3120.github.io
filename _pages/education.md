@@ -10,12 +10,12 @@ permalink: /education/
 <!-- 🎓 Education Section -->
 <div style="text-align: justify; line-height: 1.6; margin-bottom: 2em;">
 
-  <h3 style="color: #2c3e50; margin-bottom: 0.8em;">🎓 Education</h3>
+  
 
   <div style="margin-bottom: 1.2em;">
-    <h2 style="margin: 0; color: #1a5276;">
-      <strong>[IUBAT - International University of Business Agriculture and Technology]</strong>
-    </h2>
+    <h3 style="margin: 0; color: #1a5276;">
+      <strong>IUBAT - International University of Business Agriculture and Technology</strong>
+    </h3>
     <p style="margin: 0.2em 0; font-style: italic; color: #555;">
       Bachelor of Science in Computer Science and Engineering
     </p>
@@ -28,9 +28,9 @@ permalink: /education/
   </div>
 
   <div style="margin-bottom: 1.2em;">
-    <h2 style="margin: 0; color: #1a5276;">
+    <h3 style="margin: 0; color: #1a5276;">
       <strong>Noakhali Government College</strong>
-    </h2>
+    </h3>
     <p style="margin: 0.2em 0; font-style: italic; color: #555;">
       Higher Secondary Certificate
     </p>
@@ -43,9 +43,9 @@ permalink: /education/
   </div>
 
   <div>
-    <h2 style="margin: 0; color: #1a5276;">
+    <h3 style="margin: 0; color: #1a5276;">
       <strong>Brother Andre High School</strong>
-    </h2>
+    </h3>
     <p style="margin: 0.2em 0; font-style: italic; color: #555;">
       Secondary School Certificate
     </p>
@@ -64,21 +64,21 @@ permalink: /education/
 <!-- 💼 Work Experience Section -->
 <div style="text-align: justify; line-height: 1.6;">
 
-  <h3 style="color: #00cc66; margin-bottom: 0.8em;">💼 Work Experience</h3>
+  <h2 style="color: #00cc66; margin-bottom: 0.8em;">💼 Work Experience</h2>
 
   <div style="margin-bottom: 1.2em;">
-    <p style="margin: 0; font-weight: bold; color: #2c3e50;">
+    <h3 style="margin: 0; font-weight: bold; color: #2c3e50;">
       Software Development Intern <span style="color: #541A75;">[Oct 2025 - Ongoing]</span>
-    </p>
+    </h3>
     <p style="margin: 0.2em 0; font-style: italic; color: #555;">
       Simec System Limited, Uttara-12, Dhaka
     </p>
   </div>
 
   <div>
-    <p style="margin: 0; font-weight: bold; color: #2c3e50;">
+    <h3 style="margin: 0; font-weight: bold; color: #2c3e50;">
       Junior Web Designer (Part-Time) <span style="color: #541A75;">[Jan 2023 - May 2025]</span>
-    </p>
+    </h3>
     <p style="margin: 0.2em 0; font-style: italic; color: #555;">
       Tech4Realty
     </p>
