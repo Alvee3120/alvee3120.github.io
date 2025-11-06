@@ -8,7 +8,15 @@ excerpt: "About me"
 
 ## Md. Fazlah Karim Alvee
 
+<div align="justify">
+
 I’m a Computer Science student currently pursuing a B.Sc. in Computer Science and Engineering at the International University of Business Agriculture and Technology (IUBAT). I’m presently completing my internship at Simec System Limited as a Python Django Developer, where I’m gaining practical experience in backend development and real-world project implementation. I have a strong foundation in UI/UX design, enabling me to build intuitive, user-friendly, and visually appealing interfaces. My interests include developing dynamic, responsive web applications and exploring how AI-driven technologies can enhance functionality and user experience.
+
+</div>
+
+
+
+
 ---
 
 ### 🎓 Education
