@@ -6,7 +6,33 @@ permalink: /skills/
 
 ---
 
+<div style="text-align: justify; line-height: 1.6; margin-bottom: 1.5em;">
 
+  <h3 style="margin-bottom: 0.5em; color: #2c3e50;">🛠️ Skills</h3>
+
+  <p style="margin: 0.3em 0;">
+    <strong>Programming Languages:</strong> Python, JavaScript, C, C++
+  </p>
+
+  <p style="margin: 0.3em 0;">
+    <strong>Database:</strong> MySQL
+  </p>
+
+  <p style="margin: 0.3em 0;">
+    <strong>Technologies & Frameworks:</strong> Django, React, HTML, CSS, WordPress, Git, GitHub, Django Rest Framework
+  </p>
+
+  <p style="margin: 0.3em 0;">
+    <strong>Tools:</strong> VS Code, CodeBlocks, Cisco Packet Tracer
+  </p>
+
+  <p style="margin: 0.3em 0;">
+    <strong>Design & Prototyping:</strong> Figma, Adobe XD, Balsamiq
+  </p>
+
+</div>
+
+<hr style="border: none; border-top: 1px solid #ccc; margin: 1.5em 0;">
 
 ## 💻 Featured Projects
 
