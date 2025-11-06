@@ -9,8 +9,8 @@ main:
   - title: "Education/Experience"
     url: /education/ 
    
-  - title: "Achievements/Skills"
-    url: /achievements/ 
+  - title: "Skills/Project"
+    url: /skills-project/ 
         
   # - title: "Technical Skills"
   #   url: /skills 
