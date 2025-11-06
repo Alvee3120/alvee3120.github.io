@@ -13,9 +13,9 @@ permalink: /education/
   <h3 style="color: #2c3e50; margin-bottom: 0.8em;">🎓 Education</h3>
 
   <div style="margin-bottom: 1.2em;">
-    <h4 style="margin: 0; color: #1a5276;">
+    <h2 style="margin: 0; color: #1a5276;">
       <strong>[IUBAT - International University of Business Agriculture and Technology]</strong>
-    </h4>
+    </h2>
     <p style="margin: 0.2em 0; font-style: italic; color: #555;">
       Bachelor of Science in Computer Science and Engineering
     </p>
@@ -28,9 +28,9 @@ permalink: /education/
   </div>
 
   <div style="margin-bottom: 1.2em;">
-    <h4 style="margin: 0; color: #1a5276;">
+    <h2 style="margin: 0; color: #1a5276;">
       <strong>Noakhali Government College</strong>
-    </h4>
+    </h2>
     <p style="margin: 0.2em 0; font-style: italic; color: #555;">
       Higher Secondary Certificate
     </p>
@@ -43,9 +43,9 @@ permalink: /education/
   </div>
 
   <div>
-    <h4 style="margin: 0; color: #1a5276;">
+    <h2 style="margin: 0; color: #1a5276;">
       <strong>Brother Andre High School</strong>
-    </h4>
+    </h2>
     <p style="margin: 0.2em 0; font-style: italic; color: #555;">
       Secondary School Certificate
     </p>
