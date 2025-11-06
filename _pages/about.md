@@ -48,23 +48,61 @@ I’m a Computer Science student currently pursuing a B.Sc. in Computer Science 
 
 ---
 
-### 🛠️ Skills
+<!-- 🛠️ Skills Section -->
+<div style="text-align: justify; line-height: 1.6; margin-bottom: 1.5em;">
 
-* **Programming Languages:**Python, JavaScript, C, C++
-* **Database:** MySQL
-* **Technologies & Frameworks:** Django, React, Html, Css, WordPress, Git, GitHub, Django Rest Framework
-* **Tools:** VS Code, CodeBlocks, Cisco Packet Tracer
-* **Design & Prototyping:** Figma, Adobe XD, Balsamiq
+  <h3 style="margin-bottom: 0.5em; color: #2c3e50;">🛠️ Skills</h3>
 
----
+  <p style="margin: 0.3em 0;">
+    <strong>Programming Languages:</strong> Python, JavaScript, C, C++
+  </p>
 
-### 📫 Contact
+  <p style="margin: 0.3em 0;">
+    <strong>Database:</strong> MySQL
+  </p>
 
-* **Email:** [fazlahkarim2002@gmail.com](mailto:fazlahkarim2002@gmail.com)
-* **LinkedIn:** [linkedin.com/in/alvee3120](https://www.linkedin.com/in/alvee3120/)
-* **GitHub:** [github.com/Alvee3120](https://github.com/Alvee3120)
-* **Portfolio:** [portfolio.fkalvee.com](https://alvee.sagafootwear.com/)
-* **Netlify Projects:** [Netlify Dashboard](https://app.netlify.com/teams/fazlah-alvee20/projects)
+  <p style="margin: 0.3em 0;">
+    <strong>Technologies & Frameworks:</strong> Django, React, HTML, CSS, WordPress, Git, GitHub, Django Rest Framework
+  </p>
+
+  <p style="margin: 0.3em 0;">
+    <strong>Tools:</strong> VS Code, CodeBlocks, Cisco Packet Tracer
+  </p>
+
+  <p style="margin: 0.3em 0;">
+    <strong>Design & Prototyping:</strong> Figma, Adobe XD, Balsamiq
+  </p>
+
+</div>
+
+<hr style="border: none; border-top: 1px solid #ccc; margin: 1.5em 0;">
+
+<!-- 📫 Contact Section -->
+<div style="text-align: justify; line-height: 1.6;">
+
+  <h3 style="margin-bottom: 0.5em; color: #2c3e50;">📫 Contact</h3>
+
+  <p style="margin: 0.3em 0;">
+    <strong>Email:</strong> <a href="mailto:fazlahkarim2002@gmail.com" style="color: #007acc;">fazlahkarim2002@gmail.com</a>
+  </p>
+
+  <p style="margin: 0.3em 0;">
+    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/alvee3120/" style="color: #007acc;">linkedin.com/in/alvee3120</a>
+  </p>
+
+  <p style="margin: 0.3em 0;">
+    <strong>GitHub:</strong> <a href="https://github.com/Alvee3120" style="color: #007acc;">github.com/Alvee3120</a>
+  </p>
+
+  <p style="margin: 0.3em 0;">
+    <strong>Portfolio:</strong> <a href="https://alvee.sagafootwear.com/" style="color: #007acc;">portfolio.fkalvee.com</a>
+  </p>
+
+  <p style="margin: 0.3em 0;">
+    <strong>Netlify Projects:</strong> <a href="https://app.netlify.com/teams/fazlah-alvee20/projects" style="color: #007acc;">Netlify Dashboard</a>
+  </p>
+
+</div>
 
 
 
